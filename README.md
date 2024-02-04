@@ -5,4 +5,7 @@
   
    ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/11ad34be-0ca7-49c5-83f0-e1656e24c3a6)
 ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/d791cf3b-e064-452c-8382-497ace1664b2)
-r
+   3. Show location of the various covid vaccination facilities.
+      ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/08e9421e-8385-4f3c-bb19-9fcc01d86b36)
+      ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/59b4659d-6b44-4a45-8793-fdc40772139b)
+

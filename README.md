@@ -12,4 +12,27 @@
     ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/ca43e6c8-7b7c-4489-abbf-366312650e40)
 ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/c0dab51e-4454-4db7-b485-95601908aa34)
 
-5. 
+5. What are the bed types and and stffing levels for each country?
+   {SELECT
+  b.county_name,
+  b.total_hospital_beds,
+  b.gen_medical_surgical_adult_beds,
+  s.total_personnel_ft,
+  s.registered_nurses_ft,
+  s.physicians_and_dentists_ft
+FROM `bigquery-public-data.covid19_aha.hospital_beds` b
+LEFT JOIN `bigquery-public-data.covid19_aha.staffing` s
+  ON b.county_fips_code = s.county_fips_code;}
+![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/af9c8f71-fab3-4537-9f9d-a4ad38fe7006)
+6. State the drug names with recalls and detiled label information.
+   {SELECT
+  de.recall_number,
+  de.product_description,
+  de.reason_for_recall,
+  dl.openfda_brand_name,
+  dl.openfda_generic_name,
+FROM `bigquery-public-data.fda_drug.drug_enforcement` de
+LEFT JOIN `bigquery-public-data.fda_drug.drug_label` dl
+  ON de.openfda_unii = dl.openfda_unii;}
+ ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/b652bae4-3c72-4f7d-94f4-df4207b99239)
+

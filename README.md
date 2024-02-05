@@ -14,7 +14,7 @@
 
 5. What are the bed types and and stffing levels for each country?
    
-  SELECT
+ { SELECT
   b.county_name,
   b.total_hospital_beds,
   b.gen_medical_surgical_adult_beds,
@@ -23,7 +23,7 @@
   s.physicians_and_dentists_ft
 FROM `bigquery-public-data.covid19_aha.hospital_beds` b
 LEFT JOIN `bigquery-public-data.covid19_aha.staffing` s
-  ON b.county_fips_code = s.county_fips_code;
+  ON b.county_fips_code = s.county_fips_code; }
 
 ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/af9c8f71-fab3-4537-9f9d-a4ad38fe7006)
 6. State the drug names with recalls and detiled label information.

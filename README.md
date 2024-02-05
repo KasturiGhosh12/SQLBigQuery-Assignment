@@ -12,7 +12,7 @@
     ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/ca43e6c8-7b7c-4489-abbf-366312650e40)
 ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/c0dab51e-4454-4db7-b485-95601908aa34)
 
-5. What are the bed types and and stffing levels for each country?
+5. What are the bed types and and staffing levels for each country?
    
 ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/f1008eb4-e6fb-41a2-b477-4c17a6574bba)
 

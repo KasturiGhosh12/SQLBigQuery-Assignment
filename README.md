@@ -23,4 +23,19 @@
   
  ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/b652bae4-3c72-4f7d-94f4-df4207b99239)
 
-7. 
+7. What are the countries with potential staffing shortages?
+
+   ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/f30f71cb-1b3b-46e0-a730-61ca886a23ba)
+![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/a728f072-6f98-4262-9287-63ee797fe731)
+8. What is the total number of countries?
+   ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/73f4f02e-0e1f-4cb0-9d89-e9e33ee970f3)
+![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/bbf069cd-8526-450d-bcb9-a09b97d872ee)
+
+9. What is the average spot length for each platform?
+![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/15548169-9716-46bc-8a66-1dcf1163911b)
+
+    ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/be791068-df55-45c0-9833-062b3928eb52)
+
+10. What is the total megabytes for a library source?
+    ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/fd0d8bf6-9aeb-48c8-8ec0-385bd096e333)
+![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/5efcf929-061a-490d-9e8c-079076560541)

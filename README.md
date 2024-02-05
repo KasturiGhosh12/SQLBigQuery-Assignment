@@ -28,7 +28,7 @@ LEFT JOIN `bigquery-public-data.covid19_aha.staffing` s
 ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/af9c8f71-fab3-4537-9f9d-a4ad38fe7006)
 6. State the drug names with recalls and detiled label information.
 
-   { SELECT
+  SELECT
   de.recall_number,
   de.product_description,
   de.reason_for_recall,
@@ -36,8 +36,7 @@ LEFT JOIN `bigquery-public-data.covid19_aha.staffing` s
   dl.openfda_generic_name,
 FROM `bigquery-public-data.fda_drug.drug_enforcement` de
 LEFT JOIN `bigquery-public-data.fda_drug.drug_label` dl
-  ON de.openfda_unii = dl.openfda_unii;}
- 
+  ON de.openfda_unii = dl.openfda_unii;
   
  ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/b652bae4-3c72-4f7d-94f4-df4207b99239)
 

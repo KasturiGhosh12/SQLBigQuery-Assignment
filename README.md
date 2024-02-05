@@ -41,3 +41,4 @@ LEFT JOIN `bigquery-public-data.fda_drug.drug_label` dl
   
  ![image](https://github.com/KasturiGhosh12/SQLBigQuery-Assignment/assets/154314536/b652bae4-3c72-4f7d-94f4-df4207b99239)
 
+7. 
